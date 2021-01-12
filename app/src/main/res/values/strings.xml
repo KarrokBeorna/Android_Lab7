@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Android_Lab7</string>
+    <string name="start_service">Start Service</string>
+    <string name="fox">fox</string>
+    <string name="receiver">Receiver</string>
+    <string name="bind">Bind</string>
+    <string name="unbind">Unbind</string>
+    <string name="message">Message</string>
+</resources>
